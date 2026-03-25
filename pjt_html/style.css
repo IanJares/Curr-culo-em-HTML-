@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://img.freepik.com/vetores-premium/abstrato-hexagonos-design-ciencia-futurista-energia-tecnologia-hitech-conceito-digital-ilustracao-vetorial_41981-2915.jpg");
+}
+hr {
+    border:none;
+    height: 1px;
+    background-color: black;
+}
+.foto-curriculo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 150px;
+    border-radius: 10px;
+}
+.foto-linkedin{
+    position: left;
+    top: 20px;
+    right: 20px;
+    width: 50px;
+    border: none;
+}
